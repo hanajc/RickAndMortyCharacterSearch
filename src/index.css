@@ -1,0 +1,25 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+input {
+ border: 1px solid #000000;
+ margin: 0px 5px 0px 5px !important;
+}
+
+.SearchBar {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerLabel {
+  color: #FFF;
+}
+
+.NavBar {
+  margin-bottom: 5px;
+}
